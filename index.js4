@@ -1,0 +1,16 @@
+const newline1 = ' # # # # '
+
+const newline2 = '# # # #'
+
+const chessboard = function() {
+  console.log(newline1)
+  console.log(newline2)
+  console.log(newline1)
+  console.log(newline2)
+  console.log(newline1)
+  console.log(newline2)
+  console.log(newline1)
+  console.log(newline2)
+}
+
+console.log(chessboard())
