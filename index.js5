@@ -1,0 +1,7 @@
+let studentnames =
+    ['benard','kahayi','baraka','hamisi']
+
+    studentnames[4] = 'Edson'
+
+
+console.log(studentnames.length)

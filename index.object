@@ -1,0 +1,8 @@
+let book = {
+    title:"codewithmegan",
+    author:"prof ibbis",
+    pages: 365
+}
+book.publicationyear = 2025
+Object.assign(book,{author:"Dr Benard"})
+console.log(book)
